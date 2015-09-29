@@ -1,0 +1,5 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\Ciuperci\bin\Debug\Ciuperci.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\Ciuperci\bin\Debug\Ciuperci.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\Ciuperci\obj\Debug\Ciuperci.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\Ciuperci\obj\Debug\Ciuperci.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\Ciuperci\obj\Debug\Ciuperci.pdb

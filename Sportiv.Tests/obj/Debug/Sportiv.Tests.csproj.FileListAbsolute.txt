@@ -1,0 +1,7 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\Sportiv.Tests\obj\Debug\Sportiv.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\Sportiv.Tests\bin\Debug\Sportiv.Tests.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\Sportiv.Tests\bin\Debug\Sportiv.Tests.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\Sportiv.Tests\bin\Debug\Sportiv.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\Sportiv.Tests\bin\Debug\Sportiv.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\Sportiv.Tests\obj\Debug\Sportiv.Tests.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\Sportiv.Tests\obj\Debug\Sportiv.Tests.pdb

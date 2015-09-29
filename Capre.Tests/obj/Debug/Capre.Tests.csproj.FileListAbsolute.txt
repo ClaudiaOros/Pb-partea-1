@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Pb - Capre\Capre.Tests\obj\Debug\Capre.Tests.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Pb - Capre\Capre.Tests\bin\Debug\Capre.Tests.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Pb - Capre\Capre.Tests\bin\Debug\Capre.Tests.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Pb - Capre\Capre.Tests\bin\Debug\Pb - Capre.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Pb - Capre\Capre.Tests\bin\Debug\Pb - Capre.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Pb - Capre\Capre.Tests\obj\Debug\Capre.Tests.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Pb - Capre\Capre.Tests\obj\Debug\Capre.Tests.pdb

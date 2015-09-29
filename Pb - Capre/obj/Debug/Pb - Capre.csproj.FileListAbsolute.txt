@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Pb - Capre\Pb - Capre\bin\Debug\Pb - Capre.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Pb - Capre\Pb - Capre\bin\Debug\Pb - Capre.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Pb - Capre\Pb - Capre\obj\Debug\Pb - Capre.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Pb - Capre\Pb - Capre\obj\Debug\Pb - Capre.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Pb - Capre\Pb - Capre\obj\Debug\Pb - Capre.pdb
