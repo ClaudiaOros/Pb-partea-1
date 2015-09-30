@@ -10,7 +10,7 @@ namespace Sportiv
     {
         public static int FormulaSportiv(int numarRunde)
         {
-            int numarRepetitii = numarRunde*(numarRunde + 1);
+            int numarRepetitii = numarRunde*numarRunde;
             return numarRepetitii;
         }
     }

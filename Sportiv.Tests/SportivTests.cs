@@ -13,7 +13,7 @@ namespace Sportiv.Tests
             int numarRunde = 10;
             int numarRepetitii = Sportiv.FormulaSportiv(numarRunde);
 
-            Assert.AreEqual(110, numarRepetitii, "Numarul de repetitii nu e cel asteptat.");
+            Assert.AreEqual(100, numarRepetitii, "Numarul de repetitii nu e cel asteptat.");
         }
     }
 }
