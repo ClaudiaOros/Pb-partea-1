@@ -10,7 +10,7 @@ namespace Pb___Capre
     {
         public static double FormulaCapre(int a, int b, int c, int d, int e)
         {
-            double formula= (c * d * e) / (a * b);
+            double formula= (double)(c * d * e) / (a * b);
             return formula;
         }
     }

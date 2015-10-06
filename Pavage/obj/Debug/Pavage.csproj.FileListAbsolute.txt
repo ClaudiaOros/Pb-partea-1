@@ -1,0 +1,5 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\Pavage\bin\Debug\Pavage.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\Pavage\bin\Debug\Pavage.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\Pavage\obj\Debug\Pavage.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\Pavage\obj\Debug\Pavage.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\Pb - Capre\Pavage\obj\Debug\Pavage.pdb

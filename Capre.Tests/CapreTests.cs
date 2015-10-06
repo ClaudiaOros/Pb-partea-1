@@ -38,7 +38,6 @@ namespace Capre.Tests
             Assert.AreEqual(4, xkg);
         }
 
-        [Ignore]
         [TestMethod]
         public void CapreTest3()
         {
@@ -49,7 +48,7 @@ namespace Capre.Tests
             int Wzile = 4;
             int Qcapre = 3;
 
-            double xkg = Pb___Capre.Capre.FormulaCapre(Zile, Capre, Kg, Wzile, Qcapre);
+            double xkg = Math.Round(Pb___Capre.Capre.FormulaCapre(Zile, Capre, Kg, Wzile, Qcapre),2);
 
             Assert.AreEqual(0.57, xkg);
         }
